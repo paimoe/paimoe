@@ -1,5 +1,6 @@
 Meeeee
 ==========
+Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Node, D3 lately (2016).
 
 # What I've done recently
 * <a href="http://www.rugbydump.com">Rugbydump.com</a> - Full site development, importing from blogger and including ops, caching, frontend. Initial import of 2,000 posts and 70,000 comments from Blogger. Seamlessly redirect users from all Blogger posts to respective locations on new site. Make sure Google found the new post locations correctly. Handle 30,000 people visiting it on the first day.
