@@ -1,4 +1,4 @@
-Meeeee
+Paimoe Tapsell
 ==========
 Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Node, D3 lately (2016).
 
