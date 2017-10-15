@@ -1,8 +1,9 @@
 Paimoe Tapsell
 ==========
-Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Node, D3 lately (2016).
+Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Node, D3.
 
 # What I've done recently
+* <a href="https://www.sheepbackups.com">Sheep Backups</a> - Backups Saas, Stripe integration, python app <a href="https://pypi.python.org/pypi/sheepbackups/">on PyPI</a>.
 * <a href="http://www.rugbydump.com">Rugbydump.com</a> - Full site development, importing from blogger and including ops, caching, frontend. Initial import of 2,000 posts and 70,000 comments from Blogger. Seamlessly redirect users from all Blogger posts to respective locations on new site. Make sure Google found the new post locations correctly. Handle 30,000 people visiting it on the first day.
 * <a href="http://completionist.hamjack.com">Completionist</a> - Site to track Steam Achievements. Uses Django on the backend, redis/rq for processing, Angular on the frontend. IndexedDB via localForage for super fast caching.
 * <a href="http://github.com/paimoe/kappablob">kappablob</a> - Shows recent/grouped twitch messages, and displays them with d3 graphs.
