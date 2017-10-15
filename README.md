@@ -1,6 +1,6 @@
 Paimoe Tapsell
 ==========
-Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Node, D3.
+Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Node, D3, whatever is required.
 
 # What I've done recently
 * <a href="https://www.sheepbackups.com">Sheep Backups</a> - Backups Saas, Stripe integration, python app <a href="https://pypi.python.org/pypi/sheepbackups/">on PyPI</a>.
