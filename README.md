@@ -1,15 +1,16 @@
 Paimoe Tapsell
 ==========
-Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Node, D3, whatever is required.
+Self taught web developer working with Python, Javascript, PHP, as well as some server side ops. Using Angular, Django, Vue, Node, D3, whatever is required.
 
 # What I've done recently
+* <a href="https://eu4.paimoe.com/map/">EU4 Map</a> - interactive map from the game Europa Universalis IV. Parsing data files and building a map with d3
 * <a href="https://www.sheepbackups.com">Sheep Backups</a> - Backups Saas, Stripe integration, python app <a href="https://pypi.python.org/pypi/sheepbackups/">on PyPI</a>.
 * <a href="http://www.rugbydump.com">Rugbydump.com</a> - Full site development, importing from blogger and including ops, caching, frontend. Initial import of 2,000 posts and 70,000 comments from Blogger. Seamlessly redirect users from all Blogger posts to respective locations on new site. Make sure Google found the new post locations correctly. Handle 30,000 people visiting it on the first day.
-* <a href="http://completionist.hamjack.com">Completionist</a> - Site to track Steam Achievements. Uses Django on the backend, redis/rq for processing, Angular on the frontend. IndexedDB via localForage for super fast caching.
-* <a href="http://github.com/paimoe/kappablob">kappablob</a> - Shows recent/grouped twitch messages, and displays them with d3 graphs.
 * <a href="http://www.cpap.com">CPAP.com</a> (2012-2015) - Remote worker for medical shopping portal, working on both customer facing features, staff use features, and backend code cleanup.
 
 # A bit older
+* <a href="http://completionist.hamjack.com">Completionist</a> - Site to track Steam Achievements. Uses Django on the backend, redis/rq for processing, Angular on the frontend. IndexedDB via localForage for super fast caching.
+* <a href="http://github.com/paimoe/kappablob">kappablob</a> - Shows recent/grouped twitch messages, and displays them with d3 graphs.
 * indiereleases.com (2011) - Weekly newsletter highlighting new or interesting indie games, and developments/articles from around the web. Also supports reminding users when a game is released, if they sign up with their email address. Mailchimp/Postmark integrated.
 * Rugbyfixtures - Django app to store and display all fixtures easily and accurately. Emphasis on no spoilers, accurate and local times, and coverage.
 * Minecraft Saver (2012-2014) - wxPython desktop client to upload and share Minecraft worlds. Website made with django and used some AWS services for generating world maps
